@@ -23,5 +23,28 @@
 }
 
 /* Posititoning Classes */
+.deals {
+  padding-top: 1em;
+}
 
+.col-span-3 {
 
+}
+
+.col-span-2 {
+  float: left;
+  width: 66%;
+}
+
+.col-span-1 {
+  float: left;
+  width: 32%;
+}
+
+[class*=col-] {
+  margin-left: 2%
+}
+
+.first {
+  margin-left: 0%;
+}
